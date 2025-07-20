@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/status-Completed-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/platform-Proteus-blue.svg)
 ![Environment](https://img.shields.io/badge/environment-Proteus%208-orange.svg)
-![Language](https://img.shields.io/badge/language-Circuit%20Design-blue.svg)
+![Language](https://img.shields.io/badge/language-Circuit%20Design-yellow.svg)
 
 ## Overview
 
